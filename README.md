@@ -15,3 +15,7 @@ Bulletin of the Seismological Society of America 97(5):1742-1749,
 DOI:10.1785/0120060181,
 
 
+DECLUSTERING <- OPENQUAKE.ENGINE,
+GEM FOUNDATION,
+OpenQuake's Engine for Seismic Hazard and Risk Analysis,
+https://github.com/gem/oq-engine
