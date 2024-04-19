@@ -20,5 +20,5 @@ GEM FOUNDATION,
 OpenQuake's Engine for Seismic Hazard and Risk Analysis,
 https://github.com/gem/oq-engine
 
-![alt text](path/to/your/image.png)
+![alt text](fig1.png)
 
